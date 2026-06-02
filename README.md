@@ -118,7 +118,7 @@ This repository contains **2 interactive Sales Dashboards** built using **Micros
 
 - 🔗 GitHub: [github.com/Vinithasree04](https://github.com/Vinithasree04)
 - 📧 Email: vinithasree04@gmail.com
-- 💼 LinkedIn: [Add your LinkedIn URL here]
+- 💼 LinkedIn: [Linkedin/vinithasree](https://www.linkedin.com/in/vinithasree)
 
 ---
 
